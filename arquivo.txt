@@ -1,2 +1,6 @@
 Teste - Git Clone - Aula02
+<<<<<<< HEAD
 mexi no arquivo4
+=======
+mexi no arquivo2
+>>>>>>> 94e156020af6c5ca4dc4c4c17dd00ab52b56057e
